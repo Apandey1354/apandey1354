@@ -90,13 +90,6 @@ I love working on projects that connect **AI + Robotics + Real Impact**.
 
 ---
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apandey1354&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apandey1354&theme=radical" height="160px"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apandey1354&layout=compact&theme=radical" height="160px"/>
 </p>
