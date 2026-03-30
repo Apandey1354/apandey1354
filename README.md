@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#4F8EF7;">Anish Pandey</span> 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student @ Caldwell University (Class of 2027, GPA 3.9)</b><br>
+  <b>Computer Science Student @ Caldwell University (Class of 2027)</b><br>
   Passionate about <b>AI/ML 🤖, Robotics ⚙️, and Full-Stack Systems 🌐</b> that drive real-world impact 🌍
 </p>
 
