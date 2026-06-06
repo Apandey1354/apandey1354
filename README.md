@@ -8,7 +8,6 @@
 
 ---
 
-
 ### 🏆 Highlights  
 - 🥇 **3× Hackathon Winner**  
 - 🚀 **Founder @ Kampan Labs | Lead @ Caldwell Robotics**  
