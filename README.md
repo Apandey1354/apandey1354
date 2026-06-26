@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anish Pandey 👋🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+%40+GeniusLaw+%E2%9A%96%EF%B8%8F;Builder+of+AI+%2B+Robotics+%2B+Full-Stack+Systems+%F0%9F%A4%96;Founder+%40+Caldwell+Robotics+%F0%9F%A4%96;3x+Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+%40+GeniusLaw+%E2%9A%96%EF%B8%8F;BBuilder+of+AI+%2B+Robotics+%2B+Full-Stack+Systems+%F0%9F%A4%96;Founder+%40+Caldwell+Robotics+%F0%9F%A4%96;3x+Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
