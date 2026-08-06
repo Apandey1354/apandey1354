@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Lead+Software+Engineer+%40+GeniusLaw+⚖️;Founder+%26+President+%40+Caldwell+Robotics+🤖;AI+%2B+Robotics+%2B+Full-Stack+Systems;3x+Hackathon+Champion+🏆" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+GeniusLaw+⚖️;Founder+%26+President+%40+Caldwell+Robotics+🤖;AI+%2B+Robotics+%2B+Full-Stack+Systems;3x+Hackathon+Champion+🏆" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -21,11 +21,7 @@
 
 ## 🧠 About Me
 
-CS & Math student at **Caldwell University** 🎓 building things that make someone's day a little easier — sometimes that's an attorney ⚖️, sometimes a farmer 🌾, sometimes someone navigating the world without sight 🦯.
-
-- ⚡ I care more about whether something **actually helps a person** than whether it's technically impressive
-- 🤝 I'd rather mentor someone through a hard bug than just hand them the fix
-- 🛠️ Usually found at a hackathon, in the Makerspace, or arguing that the best teams are the ones that **trust each other**, not just the ones that ship fastest
+CS & Math student at **Caldwell University** 🎓 building things that make someone's day a little easier 
 
 <br clear="right"/>
 
@@ -47,15 +43,7 @@ CS & Math student at **Caldwell University** 🎓 building things that make some
         <img src="https://img.shields.io/badge/Team-Lead-success?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🦯 Dristi</h3>
-      <p align="center"><b>AI Navigation Wearable — Google × NYU</b></p>
-      <p>An AI-powered wearable helping visually impaired users navigate the world. <b>Vision, voice, and sensors</b> working together in real time.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Computer-Vision-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Accessibility-First-blueviolet?style=flat-square"/>
-      </p>
-    </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
