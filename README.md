@@ -1,125 +1,168 @@
-<h1 align="center">Hi, I'm Anish Pandey 👋🚀</h1>
-
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4F8EF7,100:00d4ff&height=220&section=header&text=Anish%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Software%20Engineer%20•%20Roboticist%20•%20Builder&descSize=20&descAlignY=58" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+%40+GeniusLaw+%E2%9A%96%EF%B8%8F;Builder+of+AI+%2B+Robotics+%2B+Full-Stack+Systems+%F0%9F%A4%96;Founder+%40+Caldwell+Robotics+%F0%9F%A4%96;3x+Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Lead+Software+Engineer+%40+GeniusLaw+⚖️;Founder+%26+President+%40+Caldwell+Robotics+🤖;AI+%2B+Robotics+%2B+Full-Stack+Systems;3x+Hackathon+Champion+🏆" alt="Typing animation" />
 </p>
 
 <p align="center">
-  CS &amp; Math student at Caldwell University 🎓, building things that try to make someone's day a little easier 💙. Sometimes that's an attorney 📑, sometimes a farmer 🌾, sometimes someone navigating the world without sight 🦯.
+  <a href="https://www.linkedin.com/in/anishpandey2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/apandey1354"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=apandey1354&style=for-the-badge&color=4F8EF7&label=VISITORS"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anishpandey2/" target="_blank"><img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:apandey2@caldwell.edu"><img height="35" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/apandey1354" target="_blank"><img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img height="35" src="https://img.shields.io/badge/Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apandey1354&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS" />
-</p>
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
 
----
+## 🧠 About Me
 
-### 🧠 A bit about how I think
+CS & Math student at **Caldwell University** 🎓 building things that make someone's day a little easier — sometimes that's an attorney ⚖️, sometimes a farmer 🌾, sometimes someone navigating the world without sight 🦯.
 
-<details open>
-<summary>Click to expand 👇</summary>
-<br>
+- ⚡ I care more about whether something **actually helps a person** than whether it's technically impressive
+- 🤝 I'd rather mentor someone through a hard bug than just hand them the fix
+- 🛠️ Usually found at a hackathon, in the Makerspace, or arguing that the best teams are the ones that **trust each other**, not just the ones that ship fastest
 
-I care more about whether something actually helps a person 💙 than whether it's technically impressive. The projects below span legal tech ⚖️, accessibility 🦯, and agriculture 🌾, and that's just genuinely what I find interesting. It's not a strategy.
+<br clear="right"/>
 
-I also try to bring people along with me 🤝. I founded Caldwell Robotics to give other students a place to build, and I'd rather mentor someone through a hard bug 🐛 than just hand them the fix.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-When I'm not coding, I'm probably at a hackathon 🏆, in the Makerspace 🛠️, or arguing that the best engineering teams are the ones that trust each other, not just the ones that ship fastest 🚀.
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## 🚀 What I'm Building
 
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ GeniusLaw</h3>
+      <p align="center"><b>Lead Software Engineer</b></p>
+      <p>Leading a small team building the CRM and AI tools that <b>500+ attorneys</b> rely on daily — including a system that turns <b>weeks of legal drafting into days</b>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Legal_Tech-4F8EF7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Team-Lead-success?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🦯 Dristi</h3>
+      <p align="center"><b>AI Navigation Wearable — Google × NYU</b></p>
+      <p>An AI-powered wearable helping visually impaired users navigate the world. <b>Vision, voice, and sensors</b> working together in real time.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Computer-Vision-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Accessibility-First-blueviolet?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 Precision Agriculture</h3>
+      <p align="center"><b>Autonomous Drones & Robotics</b></p>
+      <p>Autonomous drones and CV tools that <b>cut chemical waste</b> and <b>boost crop yield</b>. Robotics in service of the planet 🌱.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Drones-Autonomous-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OpenCV-PyTorch-red?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Caldwell Robotics</h3>
+      <p align="center"><b>Founder & President</b></p>
+      <p>Started from scratch, now <b>70+ members strong</b>. Built the campus Makerspace 🏭 and ran our first-ever <b>Robot Soccer Hackathon</b> ⚽.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Members-70%2B-4F8EF7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Founded-2023-lightgrey?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 💼 What I'm building right now
-
-<details open>
-<summary>⚖️ <b>GeniusLaw</b>: Lead Software Engineer</summary>
-<br>
-
-Leading a small team building the CRM and AI tools that 500+ attorneys 👩‍⚖️ lean on every day, including a system that turns weeks of legal drafting into days. ⏱️
-
-</details>
-
-<details>
-<summary>🦯 <b>Dristi</b>: AI Navigation Wearable (Google x NYU)</summary>
-<br>
-
-An AI powered wearable helping visually impaired users navigate the world 🌍, built with a team across Google and NYU. Vision, voice, and sensors working together in real time. 🎙️📡
-
-</details>
-
-<details>
-<summary>🌾 Precision Agriculture: Drones &amp; Robotics</summary>
-<br>
-
-Outside of work, I build autonomous drones 🛰️ and computer vision tools that cut chemical waste and boost crop yield. Robotics in service of the planet. 🌱
-
-</details>
-
-<details>
-<summary>🤖 <b>Caldwell Robotics</b>: Founder &amp; President</summary>
-<br>
-
-Started from scratch, now 70+ members strong 👥. We built the campus Makerspace 🏭 and ran our first ever Robot Soccer Hackathon. ⚽🤖
-
-</details>
-
----
-
-### 🏆 Hackathon Wins
+<!-- ═══════════════════════ HACKATHONS ═══════════════════════ -->
+## 🏆 Hackathon Wins
 
 <div align="center">
 
-| 🏅 Result | Event | Scale |
+| 🏅 | Event | Scale |
 |:---:|:---|:---|
-| 🥇 1st Place | HackNYU 2025 | 650+ participants |
-| 🥉 3rd Place | CalHacks × Anthropic × Amazon | 3,400+ participants |
-| 🥈 2nd Place | HackNJIT 2024 | 550+ participants |
-| 🏅 Finalist | HackMIT × Fetch.ai × Anthropic | Top 10 of 365 |
-| 🥇 1st Place | CougarHacks 2024 | Caldwell University |
+| 🥇 **1st Place** | HackNYU 2025 | 650+ participants |
+| 🥉 **3rd Place** | CalHacks × Anthropic × Amazon | 3,400+ participants |
+| 🥈 **2nd Place** | HackNJIT 2024 | 550+ participants |
+| 🎖️ **Finalist** | HackMIT × Fetch.ai × Anthropic | Top 10 of 365 |
+| 🥇 **1st Place** | CougarHacks 2024 | Caldwell University |
+
+<i>The trophies are fun — but the part I'm proudest of is always who I built it with. 🤝</i>
 
 </div>
 
-<p align="center"><i>The trophies are fun 🏆, but the part I'm proudest of is always who I built it with. 🤝</i></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apandey1354&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🛠️ Tools I reach for
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img height="45" src="https://skillicons.dev/icons?i=python,ts,js,csharp,cpp,react,nodejs,aws,docker,kubernetes,postgres,terraform,pytorch,tensorflow,opencv,git"/>
-</p>
+<div align="center">
 
----
+**Languages**
 
-### 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=python,ts,js,csharp,cpp&theme=dark"/>
 
-<p align="center">
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,pytorch,tensorflow,opencv&theme=dark"/>
+
+**Cloud & Infra**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,postgres,git&theme=dark"/>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=apandey1354&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=apandey1354&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apandey1354&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apandey1354&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
-</p>
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apandey1354/apandey1354/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apandey1354/apandey1354/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/apandey1354/apandey1354/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
+</div>
 
----
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<br/>
 
-<p align="center">
-  💬 Always happy to talk shop, swap project ideas, or help someone get unstuck. That's what this is for.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:apandey2@caldwell.edu"><img height="35" src="https://img.shields.io/badge/Say%20Hi%20👋-4F8EF7?style=for-the-badge"/></a>
-</p>
+### 💬 Always happy to talk shop, swap project ideas, or help someone get unstuck.
+
+<a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Say%20Hi%20👋-Let's%20Build%20Something-4F8EF7?style=for-the-badge"/></a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4F8EF7,100:1a1a2e&height=140&section=footer" width="100%"/>
+</div>
