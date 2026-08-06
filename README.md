@@ -2,7 +2,7 @@
 
 # Anish Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=4F8EF7&center=true&vCenter=true&width=520&lines=Lead+Software+Engineer+%40+GeniusLaw;Founder+%40+Caldwell+Robotics;AI+·+Robotics+·+Full-Stack" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=4F8EF7&center=true&vCenter=true&width=520&lines=Software+Engineer;Agentic+Workflows;Embedded+Engineering" alt="Typing animation"/>
 
 <br/>
 
@@ -22,11 +22,9 @@
 
 ## What I'm Building
 
-**⚖️ GeniusLaw** — Lead Software Engineer
-Leading the team behind the CRM and AI tools attorneys rely on every day, including an AI system that turns weeks of legal drafting into days.
+**⚖️ GeniusLaw** — CRM and AI tools for attorneys
 
-**🌾 Precision Agriculture** — Drones & Robotics
-Autonomous drones and computer vision systems that cut chemical waste and boost crop yield. Robotics in service of the planet.
+**🚁 Autonomous Drone** — Drones and computer vision for precision agriculture
 
 <br/>
 
