@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4F8EF7,100:00d4ff&height=220&section=header&text=Anish%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Software%20Engineer%20•%20Roboticist%20•%20Builder&descSize=20&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4F8EF7,100:00d4ff&height=220&section=header&text=Anish%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Software%20Engineering%20•%20Agentic%20Workflows%20•%20Builder&descSize=20&descAlignY=58" width="100%"/>
 </div>
 
 <p align="center">
@@ -22,6 +22,15 @@
 ## 🧠 About Me
 
 CS & Math student at **Caldwell University** 🎓 building things that make someone's day a little easier 
+
+
+
+
+
+
+
+
+
 
 <br clear="right"/>
 
