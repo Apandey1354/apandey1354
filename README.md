@@ -1,68 +1,68 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4F8EF7,100:00d4ff&height=220&section=header&text=Anish%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20Agentic%20Workflows%20%E2%80%A2%20Builder&descSize=20&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=230&section=header&text=Anish%20Pandey&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Legal%20Technology&descSize=18&descAlignY=60" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+GeniusLaw;Founder+%26+President+%40+Caldwell+Robotics;AI+%2B+Robotics+%2B+Full-Stack+Systems;3x+Hackathon+Champion" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+GeniusLaw;Designing+agentic+systems+for+legal+work;Machine+learning+from+research+to+production;Embedded+and+autonomous+systems+engineer;Founder+%26+President%2C+Caldwell+Robotics" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anishpandey2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/apandey1354"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=apandey1354&style=for-the-badge&color=4F8EF7&label=VISITORS"/>
+  <a href="https://www.linkedin.com/in/anishpandey2/"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Email-apandey2%40caldwell.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/apandey1354"><img src="https://img.shields.io/badge/GitHub-apandey1354-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+## About
 
-## 🧠 About Me
+I am a software engineer working at the intersection of **agentic AI, machine learning, embedded systems, and legal technology**. At GeniusLaw I lead engineering on a platform that attorneys use throughout their day: a CRM, document automation, and AI agents that take on the research and drafting work that previously consumed entire weeks.
 
-I think most good software starts with paying attention. Someone mentions that something is annoying, usually half as a joke, and if you listen a little longer there is a real problem sitting underneath it. That gap between what people say and what they mean is where I like to work.
+My background spans two layers of the stack that rarely meet. On one side, I design multi-agent systems, retrieval pipelines, and evaluation harnesses that make large language models dependable enough for regulated, high-stakes work. On the other, I build embedded and autonomous systems: flight controllers, sensor fusion, and computer vision running on constrained hardware in the field.
 
-I care more about whether a thing gets used than whether it was clever. Elegance nobody touches is a hobby, and I have enough of those already.
-
-And I would rather build something small with people I like than something big on my own. So far that has been the more reliable way to end up with either.
-
-<br clear="right"/>
+I founded and lead Caldwell Robotics, where I established the university Makerspace and organized its first Robot Soccer Hackathon. What connects everything I work on is a preference for systems that are measured by whether they are used, and a conviction that the best engineering happens in small teams that trust each other.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-## 🚀 What I'm Building
+<!-- ═══════════════════════ FOCUS AREAS ═══════════════════════ -->
+## Focus Areas
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">⚖️ GeniusLaw</h3>
-      <p align="center"><b>Lead Software Engineer</b></p>
-      <p>Building the CRM and the AI tools attorneys actually work inside all day, including drafting that used to eat whole weeks and now doesn't.</p>
+    <td width="25%" valign="top">
+      <h3 align="center">🧩 Agentic AI</h3>
+      <p>Multi-agent orchestration, tool use, and long-running workflows. Structured planning, memory, and guardrails that let agents operate autonomously on real business processes with auditable results.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI-Legal_Tech-4F8EF7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Team-Lead-success?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM-Orchestration-1d4ed8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Tool%20Use-MCP-06b6d4?style=flat-square"/>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 Caldwell Robotics</h3>
-      <p align="center"><b>Founder &amp; President</b></p>
-      <p>Started it from nothing with a room and a group chat. Built the campus Makerspace 🏭 and ran our first-ever <b>Robot Soccer Hackathon</b> ⚽.</p>
+    <td width="25%" valign="top">
+      <h3 align="center">📈 AI &amp; Machine Learning</h3>
+      <p>Model training, fine-tuning, and evaluation; retrieval-augmented generation; computer vision for perception. Emphasis on measurable quality, data pipelines, and production deployment rather than demos.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Community-Makerspace-4F8EF7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Built-From_Scratch-lightgrey?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyTorch-Production-ee4c2c?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RAG-Evaluation-1d4ed8?style=flat-square"/>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌾 Precision Agriculture</h3>
-      <p align="center"><b>Autonomous Drones &amp; Robotics</b></p>
-      <p>Autonomous drones and CV tools that <b>cut chemical waste</b> and <b>boost crop yield</b>. Robotics in service of the planet 🌱.</p>
+    <td width="25%" valign="top">
+      <h3 align="center">🔧 Embedded Engineering</h3>
+      <p>Firmware and control software for drones and robots: real-time control loops, sensor fusion, and onboard vision on ARM and microcontroller targets. Hardware bring-up through field deployment.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Drones-Autonomous-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OpenCV-PyTorch-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/C%2FC%2B%2B-Real--time-00599C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Autonomy-UAV-16a34a?style=flat-square"/>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3 align="center">⚖️ Legal Technology</h3>
+      <p>Software for law practices: case management, document drafting, and AI-assisted research designed for accuracy, confidentiality, and the way attorneys actually work.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Legal-AI-1d4ed8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Compliance-First-475569?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -72,26 +72,58 @@ And I would rather build something small with people I like than something big o
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!-- ═══════════════════════ WORK ═══════════════════════ -->
+## Current Work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">⚖️ GeniusLaw</h3>
+      <p align="center"><b>Lead Software Engineer</b></p>
+      <p>Leading development of the CRM and AI tooling attorneys work inside every day. Built agentic drafting and research workflows that reduced multi-week document turnaround to hours, with human review at every decision point.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Agentic-Legal%20AI-1d4ed8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Role-Engineering%20Lead-16a34a?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Caldwell Robotics</h3>
+      <p align="center"><b>Founder &amp; President</b></p>
+      <p>Founded the organization, established the campus Makerspace, and organized the university's first Robot Soccer Hackathon. Mentors students in embedded systems, control, and rapid prototyping.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Makerspace-Founder-06b6d4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Robotics-Education-475569?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌾 Precision Agriculture</h3>
+      <p align="center"><b>Autonomous Drones &amp; Perception</b></p>
+      <p>Autonomous UAVs and computer-vision tooling for targeted crop treatment, reducing chemical usage while improving yield. Embedded flight control paired with on-device inference.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/UAV-Autonomous-16a34a?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OpenCV-PyTorch-ee4c2c?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ═══════════════════════ HACKATHONS ═══════════════════════ -->
-## 🏆 Hackathon Wins
+## Hackathon Results
 
 <div align="center">
 
-| 🏅 | Event | Scale |
+| Result | Event | Scale |
 |:---:|:---|:---|
 | 🥇 **1st Place** | HackNYU 2025 | 650+ participants |
 | 🥉 **3rd Place** | CalHacks × Anthropic × Amazon | 3,400+ participants |
 | 🥈 **2nd Place** | HackNJIT 2024 | 550+ participants |
-| 🎖️ **Finalist** | HackMIT × Fetch.ai × Anthropic | Top 10 of 365 |
+| 🎖️ **Finalist** | HackMIT × Fetch.ai × Anthropic | Top 10 of 365 teams |
 | 🥇 **1st Place** | CougarHacks 2024 | Caldwell University |
 
-<i>The trophies are fun — but the part I'm proudest of is always who I built it with. 🤝</i>
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apandey1354&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 <div align="center">
@@ -99,38 +131,26 @@ And I would rather build something small with people I like than something big o
 </div>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## 🛠️ Tech Arsenal
+## Technical Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,csharp,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,csharp,rust&theme=dark"/>
 
-**Frameworks &amp; Tools**
+**AI, Machine Learning &amp; Agents**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,pytorch,tensorflow,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi&theme=dark"/>
 
-**Cloud &amp; Infra**
+**Embedded &amp; Robotics**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,postgres,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux,bash&theme=dark"/>
 
-</div>
+**Application &amp; Infrastructure**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,aws,docker,kubernetes,terraform,git&theme=dark"/>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=apandey1354&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=apandey1354&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apandey1354&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
@@ -138,12 +158,14 @@ And I would rather build something small with people I like than something big o
 
 <div align="center">
 
-### 💬 Always happy to talk shop, swap project ideas, or help someone get unstuck.
+### Open to conversations about agentic systems, applied ML, embedded engineering, and legal technology.
 
-<a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Say%20Hi%20👋-Let's%20Build%20Something-4F8EF7?style=for-the-badge"/></a>
+<a href="mailto:apandey2@caldwell.edu"><img src="https://img.shields.io/badge/Get%20in%20touch-apandey2%40caldwell.edu-1d4ed8?style=for-the-badge"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anishpandey2/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4F8EF7,100:1a1a2e&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:1d4ed8,100:0f172a&height=140&section=footer" width="100%"/>
 </div>
